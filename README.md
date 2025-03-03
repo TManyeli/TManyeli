@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TManyeli
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on data visualizations
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning machine learning with python
+- 💞️ I’m looking to collaborate on machine learning models
 - 📫 How to reach me ...manyelit@gmail.com
 - 😄 Pronouns: ...him
 - ⚡ Fun fact: ...I love to cook
